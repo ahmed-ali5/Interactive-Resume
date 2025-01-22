@@ -1,3 +1,4 @@
+
 const toggleButton = document.getElementById('toggle-skills') as HTMLButtonElement
 const skills = document.getElementById('skills') as HTMLElement
 
